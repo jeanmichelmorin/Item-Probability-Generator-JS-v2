@@ -59,7 +59,7 @@ function startRoulette() {
     //roulette.style.marginLeft = "-3400px"; 
 
     /**
-     * @plamoni#6321
+     * @plamoni#63**
      * What’s happening here is the result of how web browsers work. There’s something called a “repaint.” 
      * This is when the browser draws a new version of the page. 
      *
